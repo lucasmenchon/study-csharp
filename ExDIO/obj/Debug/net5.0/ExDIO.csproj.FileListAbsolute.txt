@@ -1,0 +1,16 @@
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.exe
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.deps.json
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.runtimeconfig.json
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.runtimeconfig.dev.json
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.dll
+D:\Programing\.NET\ExDIO\ExDIO\bin\Debug\net5.0\ExDIO.pdb
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.csproj.AssemblyReference.cache
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.AssemblyInfoInputs.cache
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.AssemblyInfo.cs
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.csproj.CoreCompileInputs.cache
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.dll
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\refint\ExDIO.dll
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.pdb
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ExDIO.genruntimeconfig.cache
+D:\Programing\.NET\ExDIO\ExDIO\obj\Debug\net5.0\ref\ExDIO.dll
